@@ -1,0 +1,40 @@
+.navbar{
+    background-color: #A0522D;
+}
+header .nav .nav-link.active{
+    background-color: #fff;
+    color: #9d6a6a;
+    font-family: 'Darumadrop One', cursive;
+}
+header .nav .nav-link, 
+.navbar-brand{
+    color: #fff;
+    font-family: 'Darumadrop One', cursive;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#eventos{
+    background-image: linear-gradient(to top, rgb(234, 178, 128), rgba(224, 166, 115, 0.5));
+
+}
+.high{
+    color: #9d6a6a;
+    font-family: 'Darumadrop One', cursive;
+}
+.nav-cardapio .nav-link.active{
+    background-color: #fff;
+    color: #9d6a6a;
+    font-family: 'Darumadrop One', cursive;
+}
+.nav-cardapio .nav-link:hover{
+    color: #fff;
+    background-color: #A0522D;
+}
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+.social-links a{
+    text-decoration: none;
+}
